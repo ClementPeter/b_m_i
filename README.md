@@ -1,6 +1,9 @@
 # body_mass_index
 
-A new Flutter project.
+Body Mass Index flutter project.
+![bmi](https://user-images.githubusercontent.com/61213263/132706433-49af5b71-47dc-48de-b8b4-ad16a4fba120.jpg)
+
+![bmi_2](https://user-images.githubusercontent.com/61213263/132706479-3c1c0788-7986-4520-a7e4-d9d6b47a8336.jpg)
 
 ## Getting Started
 
