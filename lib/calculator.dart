@@ -1,6 +1,6 @@
 import 'dart:math';
 
-//Class the performs all the arithimethic logic
+//class the performs all the arithimethic logic
 
 class Calculator {
   //properties
